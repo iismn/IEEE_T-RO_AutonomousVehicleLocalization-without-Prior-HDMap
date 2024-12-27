@@ -3,5 +3,6 @@ IEEE T-RO 2024
 
 - We will announce code soon
 
-
-branch SLAM / MATLAB / DL
+- Branch PyTorch - Place Recognition
+- Branch ROS - Local Mapping / Template Matching
+- Branch MATLAB - Data Parsing
