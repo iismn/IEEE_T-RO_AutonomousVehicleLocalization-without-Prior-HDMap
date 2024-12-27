@@ -6,3 +6,5 @@ IEEE T-RO 2024
 - Branch PyTorch - Place Recognition
 - Branch ROS - Local Mapping / Template Matching
 - Branch MATLAB - Data Parsing
+
+> Environment will be provided via Docker (Ubuntu 20.04 + ROS1)
