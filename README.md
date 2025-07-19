@@ -64,7 +64,7 @@ Environment is provided via Docker (Ubuntu 20.04 + ROS1)
 
 **Docker Hub Repository:**
 ```bash
-docker pull iismn/environment_tro:latest
+docker pull iismn/environment_tro:LTS20_NV11.3_PyTorch_DL
 ```
 🔗 [Docker Hub Link](https://hub.docker.com/repository/docker/iismn/environment_tro/general)
 
